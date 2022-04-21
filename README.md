@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony-Alagna
 - 👀 I’m interested in Physics Simulations
-- 🌱 I’m currently learning JS, TS, Java, Python, C
+- 🌱 I’m currently learning TS, Angular, Java, Python, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail@aalagna.com
 
