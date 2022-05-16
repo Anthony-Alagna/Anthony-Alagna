@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anthony-Alagna
-- 👀 I’m interested in Physics Simulations
+- 👀 I’m interested in Physics Simulations, in-browser real time rendering, Data Science, Deep learning/Neural Networks
 - 🌱 I’m currently learning TS, Angular, Java, Python, C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Angular or Vue projects, interesting deep learning projects, data ingestion and processing problems
 - 📫 How to reach me mail@aalagna.com
 
 <!---
